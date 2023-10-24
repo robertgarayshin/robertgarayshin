@@ -1,4 +1,4 @@
-### Hi, I'm Robert 👋
+# Hi, I'm Robert 👋
 
 ### About me
 Junior Software Engineer with more than 1 year of commertial expirience. I have good skills in backend development on Go and Java.
