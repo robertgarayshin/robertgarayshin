@@ -2,6 +2,9 @@
 
 Junior Software Engineer with more than 1 year of commertial expirience. I have good skills in backend development on Go and Java.
 In general worked with monolitic and microservice arthitectures. Some of my projects are presented on <a href="https://github.com/robertgarayshin">GitHub</a>
+
+# Education
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HSE+ITCS+student)](https://git.io/typing-svg)
 <p align='center'>
    <a href="https://github.com/robertgarayshin/github-readme-stats"><img height=150
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertgarayshin&layout=compact"/></a>
