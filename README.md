@@ -1,6 +1,5 @@
 # Hi, I'm Robert 👋
 
-### About me
 Junior Software Engineer with more than 1 year of commertial expirience. I have good skills in backend development on Go and Java.
 In general worked with monolitic and microservice arthitectures. Some of my projects are presented on <a href="https://github.com/robertgarayshin">GitHub</a>
 <!--
