@@ -7,7 +7,18 @@ In general worked with monolitic and microservice arthitectures. Some of my proj
            height=150
            src="https://github-readme-stats.vercel.app/api?username=robertgarayshin&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/robertgarayshin/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertgarayshin&layout=compact"/></a>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertgarayshin&layout=compact"/></a>
+</p>
+<p align='center'>
+   <a href="https://vk.com/robert_exe">
+      <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
+   </a>
+   <a href="https://vk.com/robert_exe">
+      <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
+   </a>
+   <p align='center'>
+      Contact me: <a href="mailto:rigarayshin@edu.hse.ru">rigarayshin@edu.hse.ru</a>
+   </p>
 </p>
 <!--
 **robertgarayshin/robertgarayshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +36,4 @@ Here are some ideas to get you started:
 -->
 <a href="https://vk.com/robert_exe"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"></a>
 <a href="https://t.me/rroberttttt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="mailto:rigarayshin@edu.hse.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
