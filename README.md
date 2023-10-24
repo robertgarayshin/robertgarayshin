@@ -2,6 +2,13 @@
 
 Junior Software Engineer with more than 1 year of commertial expirience. I have good skills in backend development on Go and Java.
 In general worked with monolitic and microservice arthitectures. Some of my projects are presented on <a href="https://github.com/robertgarayshin">GitHub</a>
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=robertgarayshin&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=robertgarayshin&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/robertgarayshin/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertgarayshin&layout=compact"/></a>
+</p>
 <!--
 **robertgarayshin/robertgarayshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
